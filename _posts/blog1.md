@@ -1,0 +1,3 @@
+# Dzień dobry świecie!
+
+To jest pierwszy post na naszym blogu...
